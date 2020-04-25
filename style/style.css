@@ -27,7 +27,7 @@ p {
 *=========================================*/
 
 header {
-  background: #333;
+  background: #EE1C25;
   position: fixed;
   left: 0;
   right: 0;
@@ -42,7 +42,7 @@ header nav a {
   color: white;
   text-decoration: none;
   font-weight: bold;
-  font-size: 28px;
+  font-size: 20px;
   margin: 0 20px;
 }
 
